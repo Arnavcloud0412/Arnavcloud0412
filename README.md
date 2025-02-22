@@ -9,11 +9,6 @@ Welcome to my GitHub profile! I'm passionate about coding and building innovativ
 - 🏆 Completed **Google Cloud GenAI Study Jams** with 15+ Skill Badges
 - 🖥️ Internshala **Student Partner**
   
-## 🔨 Projects
-- **🤖 Chatbot** – AI-powered conversational bot.
-- **📷 Photography Website** – Showcasing creative captures.
-- **📝 Documentation & Technical Writing** – Active contributions to tech communities.
-
 ## 📚 Skills
 - Python, JavaScript, HTML/CSS
 - AI/ML, Data Analysis
