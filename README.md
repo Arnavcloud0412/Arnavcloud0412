@@ -3,8 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding and building innovative projects.
 
 # 💫 About Me:
-🎓 Member of Google Developers Group on campus<br>📝 Part of the Alegria Management Information Systems Team<br>🌱 Currently learning AI, Machine Learning, Deep Learning, NLP<br> ![image](https://github.com/user-attachments/assets/1adf08b6-1f21-4e55-80fb-81f49fc0686d)
-Google Cloud Innovator<br>🏆 Completed Google Cloud GenAI Study Jams with 15+ Skill Badges<br>🖥️ Internshala Student Partner
+🎓 Member of Google Developers Group on campus<br>📝 Part of the Alegria Management Information Systems Team<br>🌱 Currently learning AI, Machine Learning, Deep Learning, NLP<br>🖥️ Google Cloud Innovator<br>🏆 Completed Google Cloud GenAI Study Jams with 15+ Skill Badges<br>🖥️ Internshala Student Partner
 
 
 ## 🌐 Socials:
